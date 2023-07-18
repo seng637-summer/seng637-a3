@@ -80,7 +80,7 @@ ALL students should ensure that they understand the concepts in this section bef
 
 **Figure 1 - New Java Project dialog with name and source path filled in**
 
-<img src="media/3.jpg" alt="media/3.jpg" width="360"/>
+<img src="media/3.JPG" alt="media/3.JPG" width="360"/>
 
 **Figure 2 - Import Source**
 
@@ -105,7 +105,7 @@ For the purpose of demonstrating the abilities of coverage tools, the test suite
 
     - Check your DataUtilities and Range test classes (something similar to what is shown in Figure 3 below). Then click _Finish_.
 
-<img src="media/3.jpg" alt="media/3.jpg" width="360"/>
+<img src="media/3.png" alt="media/3.png" width="360"/>
 
 **Figure 3 - Import dialog with Assignment 2 test classes selected**
 
