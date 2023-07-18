@@ -118,7 +118,7 @@ The test classes selected are now included in the org.jfree.data package in the 
 - You can find both libraries in [./seng637-a3-artifacts.zip](./seng637-a3-artifacts.zip).
 - To run EclEmma code coverage on Eclipse, select coverage button> Coverage As> JUnit Test. Figure 4
 
-<img src="media/4.jpg" alt="media/4.jpg" width="360"/>
+<img src="media/4.JPG" alt="media/4.JPG" width="360"/>
 
 **Figure 4 - Run EclEmma code coverage tool**
 
@@ -187,8 +187,8 @@ The test suite will be required to be submitted along with the lab report. Stude
 
 | Marking Scheme                                                                                                                                                                                             |     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| **Code coverage**: lesser coverage than coverage target specified in lab instructions above, would decrement your mark proportionally, unless you explain it by a valid the reason (e.g., infeasible path) | 15% |
-| **Clarity** (are they easy to follow, through commenting or style, etc.?)                                                                                                                                  | 10% |
+| **Code coverage**: lesser coverage than coverage target specified in lab instructions above, would decrement your mark proportionally, unless you explain it by a valid the reason (e.g., infeasible path) | 20% |
+| **Clarity** (are they easy to follow, through commenting or style, etc.?)                                                                                                                                  | 15% |
 | **Correctness** (do the tests actually test what they are intended to test?)                                                                                                                               | 15% |
 
 ## 5.2 Lab Report (50%)
@@ -197,9 +197,9 @@ Students will be required to submit a report on their work in the assignment as 
 
 | Marking Scheme                                                                                                                                                                           |     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| Manual data-flow coverage calculations the two mentioned methods                                                                                                                         | 10% |
+| Manual data-flow coverage calculations the two mentioned methods                                                                                                                         | 15% |
 | A detailed description of the testing strategy for the new unit tests                                                                                                                    | 5%  |
-| A high level description of five selected test cases you have designed using coverage information, and how they have increased code coverage                                             | 5%  |
+| A high level description of five selected test cases you have designed using coverage information, and how they have increased code coverage                                             | 10%  |
 | A detailed report of the coverage achieved of each class and method (a screen shot from the code cover results in green and red color would suffice)                                     | 5%  |
 | Pros and cons of the coverage tools tried by your group in this assignment, in terms of reported measures, integration with the IDE and other plug-ins, user friendliness, crashes, etc. | 5%  |
 | A comparison on the advantages and disadvantages of requirements-based test generation and coverage-based test generation.                                                               | 5%  |
